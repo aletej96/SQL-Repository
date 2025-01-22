@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.3
+sqlalchemy==1.4.31
+pandas==1.4.2
+boto3==1.24.1
+mysql-connector-python==8.0.28
+PyMySQL==1.0.2
